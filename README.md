@@ -4,18 +4,17 @@ Marine fisheries contribute greatly to the economic aspects of any country. Indi
 
 # Prerequisites
 * Install the following libraries that would be used throughout the code
-*
+* ```
+  !pip install tensowflow
+  !pip install numpy
+  !pip install pandas
+  !pip install keras
+  !pip install
+  !pip install opencv-python==4.5.5.64
+  !pip install matplotlib
+  !pip install scikit-learn
+  !pip install bs4
   ```
-!pip install tensowflow
-!pip install numpy
-!pip install pandas
-!pip install keras
-!pip install
-!pip install opencv-python==4.5.5.64
-!pip install matplotlib
-!pip install scikit-learn
-!pip install bs4
-```
 
 * Download the dataset that would be used in all the species prediction form images and that is scrapped using google images and later preprocessed. The dataset can be found here
 
