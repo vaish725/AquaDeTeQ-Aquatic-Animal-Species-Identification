@@ -4,7 +4,8 @@ Marine fisheries contribute greatly to the economic aspects of any country. Indi
 
 # Prerequisites
 * Install the following libraries that would be used throughout the code
-code(!pip install tensowflow
+code()
+!pip install tensowflow
 !pip install numpy
 !pip install pandas
 !pip install keras
@@ -12,4 +13,4 @@ code(!pip install tensowflow
 !pip install opencv-python==4.5.5.64
 !pip install matplotlib
 !pip install scikit-learn
-!pip install bs4)
+!pip install bs4
