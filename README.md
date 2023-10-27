@@ -4,7 +4,8 @@ Marine fisheries contribute greatly to the economic aspects of any country. Indi
 
 # Prerequisites
 * Install the following libraries that would be used throughout the code
-code()
+*
+  ```
 !pip install tensowflow
 !pip install numpy
 !pip install pandas
@@ -14,3 +15,11 @@ code()
 !pip install matplotlib
 !pip install scikit-learn
 !pip install bs4
+```
+
+* Download the dataset that would be used in all the species prediction form images and that is scrapped using google images and later preprocessed. The dataset can be found here
+
+* Use Deepnote to run the code more efficiently and without any hindrance as it provides more RAM and it is possible to run code in the background which doesn't affect the PC performance.
+
+
+# Information about files
