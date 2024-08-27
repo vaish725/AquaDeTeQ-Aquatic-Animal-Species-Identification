@@ -20,5 +20,3 @@ Marine fisheries contribute greatly to the economic aspects of any country. Indi
 
 * Use Deepnote to run the code more efficiently and without any hindrance as it provides more RAM and it is possible to run code in the background which doesn't affect the PC performance.
 
-
-# Information about files
